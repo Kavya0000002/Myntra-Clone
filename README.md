@@ -39,11 +39,13 @@ JavaScript – for minor interactivity (nav toggle, UI effects)
 📌 Note
 Important: The image src paths in the HTML are currently hardcoded assuming that images are in the main folder. Please ensure you move all images from the images/ folder into the root directory of the project to make them visible properly.
 
+Video:
+
+https://github.com/user-attachments/assets/958b844f-d3e9-4d0d-99e5-0e7d0c12a3c4
+
 Home Page:
 <img width="1918" height="957" alt="myn1" src="https://github.com/user-attachments/assets/b04386da-824b-4f89-9a12-310eba1c7b4c" />
 
 <img width="1917" height="870" alt="myn2" src="https://github.com/user-attachments/assets/01b32090-71a9-4d0b-b932-2d849ccb9b82" />
-
-Video:
 
 
