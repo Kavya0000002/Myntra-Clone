@@ -37,12 +37,14 @@ JavaScript – for minor interactivity (nav toggle, UI effects)
 5. That’s it! You now have a working static clone of the Myntra homepage.
 
 📌 Note
-Important: The image src paths in the HTML are currently hardcoded assuming that images are in the main folder. Please ensure you move all images from the images/ folder into the root directory of the project to make them visible properly.<img width="1918" height="870" alt="Screenshot 2025-08-02 205744" src="https://github.com/user-attachments/assets/9e4332fb-c0dd-48e1-9b13-f36f7a6c8830" />
+Important: The image src paths in the HTML are currently hardcoded assuming that images are in the main folder. Please ensure you move all images from the images/ folder into the root directory of the project to make them visible properly.
 
 Home Page:
+<img width="1918" height="957" alt="myn1" src="https://github.com/user-attachments/assets/b04386da-824b-4f89-9a12-310eba1c7b4c" />
 
 <img width="1917" height="870" alt="myn2" src="https://github.com/user-attachments/assets/01b32090-71a9-4d0b-b932-2d849ccb9b82" />
 
 Video:
+
 
 
